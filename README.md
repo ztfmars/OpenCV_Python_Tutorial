@@ -15,9 +15,9 @@
 
 为了方便大家自行阅读和查找，我整理了：
 
-- Jupyter notebook版本 ， 主要是详细说明api的各项含义/具体用法/基本演示example
-- py版本， 一些接口实例使用方法，可以马上跑起来
-- html版本，主要是用于api速查
+- [Jupyter notebook版本](https://github.com/ztfmars/OpenCV_Python_Tutorial/blob/main/jupyter_version/opencv-python%20API%E6%95%B4%E7%90%86.ipynb)， 主要是详细说明api的各项含义/具体用法/基本演示example
+- [py版本](https://github.com/ztfmars/OpenCV_Python_Tutorial/tree/main/py_examples)， 一些接口实例使用方法，可以马上跑起来
+- [html版本]()，主要是用于api速查
 
 # 官方链接
 
@@ -39,6 +39,7 @@
 
 **tips:**
 （1）如何结合<数字图像处理>和opencv相关知识点， 请结合博客（内附下载书籍pdf地址） -[【Python - OpenCV】图像和视频处理 - 基础理论知识梳理](https://blog.csdn.net/weixin_42237113/article/details/104500993)
+
 （2）之后，**机器学习**入门的话，参见[一周高效入门机器学习](https://blog.csdn.net/weixin_42237113/article/details/104973498) , 另外强烈推荐
 
 - <统计学习方法> - 李航，必看的理论知识入门
