@@ -17,7 +17,7 @@
 
 - [Jupyter notebook版本](https://github.com/ztfmars/OpenCV_Python_Tutorial/blob/main/jupyter_version/opencv-python%20API%E6%95%B4%E7%90%86.ipynb)， 主要是详细说明api的各项含义/具体用法/基本演示example
 - [py版本](https://github.com/ztfmars/OpenCV_Python_Tutorial/tree/main/py_examples)， 一些接口实例使用方法，可以马上跑起来
-- [html版本]()，主要是用于api速查
+- html版本，主要是用于api速查
 
 # 官方链接
 
@@ -25,7 +25,11 @@
 - 中文版教程，注意是python2：
 链接: https://pan.baidu.com/s/1brvNxngMSPvLk8fvzYjLKw 提取码: q587
 
+# 如何安装opencv？
 
+- [win10安装和常用使用方法总结](https://blog.csdn.net/weixin_42237113/article/details/104366282)
+
+- [安装opencv不同版本的方法](https://blog.csdn.net/weixin_42237113/article/details/109165372)
 
 # 关于后续
 
